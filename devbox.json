@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.13.7/.schema/devbox.schema.json",
+  "packages": [
+    "kind@0.26.0",
+    "nushell@0.101.0",
+    "zellij@0.41.2"
+  ],
+  "shell": {
+    "init_hook": [],
+    "scripts":   {}
+  }
+}
