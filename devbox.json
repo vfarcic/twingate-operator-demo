@@ -3,7 +3,8 @@
   "packages": [
     "kind@0.26.0",
     "nushell@0.101.0",
-    "zellij@0.41.2"
+    "zellij@0.41.2",
+    "kubernetes-helm@3.16.4"
   ],
   "shell": {
     "init_hook": [],
